@@ -66,7 +66,7 @@
 
 📧 Email: huyngyuen1308@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/huy-nguyen-977b15241
+💼 LinkedIn: [Huy Nguyen](https://www.linkedin.com/in/huy-nguyen-977b15241/)
 
 ---
 
