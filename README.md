@@ -2,7 +2,7 @@
 <h3 align="center">💻 Software Engineer | ☕ Coffee Lover | 🚀 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Huy+Nguyen+%F0%9F%91%8B;Software+Engineer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Coffee+%E2%98%95+Code+%F0%9F%92%BB+Learn+%F0%9F%9A%80;Always+open+to+learning+and+collaboration!" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Software+Engineer+from+Vietnam;Always+Learning+New+Things!&center=true&width=500&height=50">
 </p>
 
 ---
