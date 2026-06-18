@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Huy Nguyen</h1>
-<h3 align="center">💻 Software Engineer | ☕ Coffee Lover | 🚀 Lifelong Learner</h3>
+<h3 align="center">💻 Software Engineer | ☕ Coffee Enthusiast | 🚀 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Software+Engineer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Building+software+and+solving+real-world+problems;Coffee+%E2%98%95+Code+%F0%9F%92%BB+Learn+%F0%9F%9A%80;Always+open+to+learning+and+collaboration!" />
