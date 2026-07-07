@@ -51,7 +51,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HuyNgyuen&theme=tokyonight&show_icons=true&include_all_commits=true&hide_rank=true" alt="Huy Nguyen's GitHub Stats" />
+ <table>
+    <tr>
+      <!-- Thẻ Stats chính của anh bên trái -->
+      <td valign="center">
+        <img src="https://github-stats-extended.vercel.app/api?username=HuyNgyuen&theme=tokyonight&show_icons=true&include_all_commits=true&hide_rank=true" alt="Huy Nguyen's GitHub Stats" />
+      </td>
+      <!-- Logo chú mèo GitHub hình tròn xuất hiện chuẩn chỉnh ở bên phải -->
+      <td valign="center" style="padding-left: 20px;">
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="130px" height="130px" alt="GitHub Logo" />
+      </td>
+    </tr>
+  </table>
   
   <!-- Thẻ Biểu Đồ Hoạt Động Trực Quan -->
   <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuyNgyuen&theme=tokyonight" />
