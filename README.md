@@ -53,22 +53,31 @@
 <p align="center">
   <table border="0" align="center" cellpadding="0" cellspacing="0">
     <tr>
-      <!-- Cột 1: Thẻ Stats có sẵn logo chú mèo GitHub hình tròn bên phải cực chuẩn -->
+      <!-- Cột 1: Thẻ Stats tổng quan -->
       <td align="center" valign="top" style="padding-right: 10px;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyNgyuen&theme=tokyonight" height="195em" alt="Huy Nguyen's GitHub Stats" />
       </td>
-      <!-- Cột 2: Biểu đồ lượn sóng hiển thị tần suất đóng góp -->
+      <!-- Cột 2: Biểu đồ lượn sóng đóng góp -->
       <td align="center" valign="top" style="padding-left: 10px;">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuyNgyuen&theme=tokyonight&bg_color=1a1b26&hide_border=true" height="195em" alt="Huy Nguyen's Activity Graph" />
       </td>
     </tr>
   </table>
-
-  <!-- Biểu đồ chú rắn săn mồi ăn Commit -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HuyNgyuen/HuyNgyuen/output/github-contribution-grid-snake-dark.svg" alt="GitHub Streak Snake" />
 </p>
 
+<br />
+
+<!-- KHU VỰC ĐỔI MỚI: Biến lưới đóng góp thành một chiếc máy chơi game Arcade thực thụ -->
+<p align="center">
+  <kbd><b>🎮 SLITHER.IO: COMMIT EDITION</b></kbd>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HuyNgyuen/HuyNgyuen/output/github-contribution-grid-snake-dark.svg" alt="GitHub Streak Snake" width="90%" />
+</p>
+
+<p align="center">
+  <i>💡 Mẹo nhỏ: Cứ mỗi một commit được đẩy lên, hệ thống sẽ tự sinh ra một "viên thức ăn" neon để chú rắn đi săn vào lúc nửa đêm! ☕ Code - Eat - Repeat 🚀</i>
 </p>
 
 ---
