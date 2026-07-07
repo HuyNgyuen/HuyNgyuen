@@ -60,6 +60,32 @@
   </a>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Thẻ Stats Tổng Quan -->
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyNgyuen&theme=tokyonight" />
+  
+  <!-- Thẻ GitHub Streak (Đếm số ngày commit liên tục - Đồng bộ theme Tokyonight) -->
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=HuyNgyuen&theme=tokyonight" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Thẻ Stats Tổng Quan -->
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyNgyuen&theme=tokyonight" />
+  
+  <!-- Thẻ Biểu Đồ Hoạt Động Trực Quan -->
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuyNgyuen&theme=tokyonight" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HuyNgyuen&theme=tokyonight&column=4&margin-w=15" alt="Huy Nguyen's GitHub Trophies" />
+</p>
+
 ---
 
 ## 🚀 Featured Projects
