@@ -54,40 +54,8 @@
   <!-- Thẻ Stats Tổng Quan -->
   <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyNgyuen&theme=tokyonight" />
   
-  <!-- Thẻ GitHub Stats Mở Rộng (Đã fix tên username của anh và chỉnh độ cao 170em cho cân xứng) -->
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="170em" src="https://github-stats-extended.vercel.app/api?username=HuyNgyuen&theme=tokyonight" alt="Huy Nguyen's GitHub Stats Extended" />
-  </a>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Thẻ Stats Tổng Quan -->
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyNgyuen&theme=tokyonight" />
-  
-  <!-- Thẻ GitHub Streak (Đếm số ngày commit liên tục - Đồng bộ theme Tokyonight) -->
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=HuyNgyuen&theme=tokyonight" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Thẻ Stats Tổng Quan -->
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyNgyuen&theme=tokyonight" />
-  
   <!-- Thẻ Biểu Đồ Hoạt Động Trực Quan -->
   <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuyNgyuen&theme=tokyonight" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Thẻ Stats Tổng Quan -->
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyNgyuen&theme=tokyonight" />
-  
-  <!-- Thẻ Thống Kê Thời Gian Code Năng Suất Trong Tuần (Không lo bị lỗi 402) -->
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HuyNgyuen&theme=tokyonight&utcOffset=7" />
 </p>
 
 ---
