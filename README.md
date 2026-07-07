@@ -52,7 +52,7 @@
 
 <p align="center">
   <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyNgyuen&theme=tokyonight" />
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=HuyNgyuen&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyNgyuen&layout=compact&theme=tokyonight&fallback_to_user_repo=true" />
 </p>
 
 ---
