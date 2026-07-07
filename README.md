@@ -63,6 +63,12 @@
       </td>
     </tr>
   </table>
+
+  <!-- Biểu đồ chú rắn săn mồi ăn Commit -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HuyNgyuen/HuyNgyuen/output/github-contribution-grid-snake-dark.svg" alt="GitHub Streak Snake" />
+</p>
+
 </p>
 
 ---
