@@ -55,11 +55,11 @@
 </p>
 
 <p align="center">
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HuyNgyuen&show_icons=true&theme=tokyonight" />
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyNgyuen&layout=compact&theme=tokyonight" />
-
+  <!-- Thẻ thống kê tổng quan (Đã sửa lỗi hiển thị và đồng bộ theme Tokyonight) -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyNgyuen&theme=tokyonight" />
+  
+  <!-- Thẻ thống kê chi tiết mở rộng (Hiển thị chuỗi ngày commit liên tục và tổng đóng góp) -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HuyNgyuen&theme=tokyonight&count_private=true" />
 </p>
 
 ---
