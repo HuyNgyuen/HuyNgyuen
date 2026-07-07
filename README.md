@@ -51,15 +51,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyNgyuen&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <!-- Thẻ thống kê tổng quan (Đã sửa lỗi hiển thị và đồng bộ theme Tokyonight) -->
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyNgyuen&theme=tokyonight" />
+  <!-- Thẻ Stats Tổng Quan -->
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyNgyuen&theme=tokyonight" />
   
-  <!-- Thẻ thống kê chi tiết mở rộng (Hiển thị chuỗi ngày commit liên tục và tổng đóng góp) -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HuyNgyuen&theme=tokyonight&count_private=true" />
+  <!-- Thẻ GitHub Stats Mở Rộng (Đã fix tên username của anh và chỉnh độ cao 170em cho cân xứng) -->
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="170em" src="https://github-stats-extended.vercel.app/api?username=HuyNgyuen&theme=tokyonight" alt="Huy Nguyen's GitHub Stats Extended" />
+  </a>
 </p>
 
 ---
