@@ -52,7 +52,7 @@
 
 <p align="center">
  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=HuyNgyuen&theme=tokyonight&show_icons=true&include_all_commits=true" alt="Huy Nguyen's Advanced GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=HuyNgyuen&theme=tokyonight&show_icons=true&include_all_commits=true&hide_rank=true" alt="Huy Nguyen's Advanced GitHub Stats" />
   </a>
   
   <!-- Thẻ Biểu Đồ Hoạt Động Trực Quan -->
