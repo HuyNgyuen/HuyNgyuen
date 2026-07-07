@@ -53,13 +53,11 @@
 <p align="center">
   <table border="0" align="center" cellpadding="0" cellspacing="0">
     <tr>
-     <!-- Cột 1: Thống kê chi tiết nâng cao (Advanced Stats) - Phiên bản tối ưu từ Frontend Config -->
-<td align="center" valign="top" style="padding-right: 10px;">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=HuyNgyuen&theme=tokyonight&show_icons=true&include_all_commits=true&line_height=28&hide_rank=true" height="195em" alt="Huy Nguyen's GitHub Stats" />
-  </a>
-</td>
-      <!-- Cột 2: Biểu đồ lượn sóng động hiển thị tần suất đóng góp theo thời gian -->
+      <!-- Cột 1: Thẻ Stats có sẵn logo chú mèo GitHub hình tròn bên phải cực chuẩn -->
+      <td align="center" valign="top" style="padding-right: 10px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyNgyuen&theme=tokyonight" height="195em" alt="Huy Nguyen's GitHub Stats" />
+      </td>
+      <!-- Cột 2: Biểu đồ lượn sóng hiển thị tần suất đóng góp -->
       <td align="center" valign="top" style="padding-left: 10px;">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuyNgyuen&theme=tokyonight&bg_color=1a1b26&hide_border=true" height="195em" alt="Huy Nguyen's Activity Graph" />
       </td>
