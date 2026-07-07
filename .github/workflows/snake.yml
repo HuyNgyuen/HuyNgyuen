@@ -28,7 +28,7 @@ jobs:
           github_user_name: HuyNgyuen
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#36BCF7&color_dots=#16161e,#24283b,#414868,#7aa2f7,#bb9af3
           
       # Đẩy file ảnh động đã tạo vào một nhánh ẩn tên là "output"
       - name: push github-contribution-grid-snake.svg to the output branch
