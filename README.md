@@ -51,8 +51,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HuyNgyuen&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyNgyuen&layout=compact&theme=tokyonight" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyNgyuen&theme=tokyonight" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=HuyNgyuen&theme=tokyonight" />
 </p>
 
 ---
