@@ -83,7 +83,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HuyNgyuen&theme=tokyonight&column=4&margin-w=15" alt="Huy Nguyen's GitHub Trophies" />
+  <!-- Thẻ Stats Tổng Quan -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyNgyuen&theme=tokyonight" />
+  
+  <!-- Thẻ Thống Kê Thời Gian Code Năng Suất Trong Tuần (Không lo bị lỗi 402) -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HuyNgyuen&theme=tokyonight&utcOffset=7" />
 </p>
 
 ---
