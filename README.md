@@ -51,8 +51,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Thẻ Stats Tổng Quan -->
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyNgyuen&theme=tokyonight" />
+ <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=HuyNgyuen&theme=tokyonight&show_icons=true&include_all_commits=true" alt="Huy Nguyen's Advanced GitHub Stats" />
+  </a>
   
   <!-- Thẻ Biểu Đồ Hoạt Động Trực Quan -->
   <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuyNgyuen&theme=tokyonight" />
