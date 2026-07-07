@@ -51,21 +51,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
- <table>
+  <table border="0" align="center" cellpadding="0" cellspacing="0">
     <tr>
-      <!-- Thẻ Stats chính của anh bên trái -->
-      <td valign="center">
-        <img src="https://github-stats-extended.vercel.app/api?username=HuyNgyuen&theme=tokyonight&show_icons=true&include_all_commits=true&hide_rank=true" alt="Huy Nguyen's GitHub Stats" />
+      <!-- Cột 1: Thống kê chi tiết nâng cao (Advanced Stats) -->
+      <td align="center" valign="top" style="padding-right: 10px;">
+        <a href="https://github.com/stats-organization/github-stats-extended">
+          <img src="https://github-stats-extended.vercel.app/api?username=HuyNgyuen&theme=tokyonight&show_icons=true&include_all_commits=true" height="195em" alt="Huy Nguyen's GitHub Stats" />
+        </a>
       </td>
-      <!-- Logo chú mèo GitHub hình tròn xuất hiện chuẩn chỉnh ở bên phải -->
-      <td valign="center" style="padding-left: 20px;">
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="130px" height="130px" alt="GitHub Logo" />
+      <!-- Cột 2: Biểu đồ lượn sóng động hiển thị tần suất đóng góp theo thời gian -->
+      <td align="center" valign="top" style="padding-left: 10px;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuyNgyuen&theme=tokyonight&bg_color=1a1b26&hide_border=true" height="195em" alt="Huy Nguyen's Activity Graph" />
       </td>
     </tr>
   </table>
-  
-  <!-- Thẻ Biểu Đồ Hoạt Động Trực Quan -->
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuyNgyuen&theme=tokyonight" />
 </p>
 
 ---
