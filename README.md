@@ -43,38 +43,41 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <table border="0" align="center" cellpadding="0" cellspacing="0">
-    <tr>
-      <!-- Cột 1: Thẻ Stats tổng quan -->
-      <td align="center" valign="top" style="padding-right: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyNgyuen&theme=tokyonight" height="195em" alt="Huy Nguyen's GitHub Stats" />
-      </td>
-      <!-- Cột 2: Biểu đồ lượn sóng đóng góp -->
-      <td align="center" valign="top" style="padding-left: 10px;">
-       <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuyNgyuen&theme=tokyonight"
-    width="48%"
-    alt="Huy Nguyen's Most Used Languages"
-  />
-      </td>
-    </tr>
-  </table>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyNgyuen&theme=tokyonight"
+        width="400"
+        alt="Huy Nguyen's GitHub Stats"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuyNgyuen&theme=tokyonight"
+        width="400"
+        alt="Huy Nguyen's Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 <br />
 
-<!-- KHU VỰC ĐỔI MỚI: Biến lưới đóng góp thành một chiếc máy chơi game Arcade thực thụ -->
 <p align="center">
   <kbd><b>🎮 SLITHER.IO: COMMIT EDITION</b></kbd>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HuyNgyuen/HuyNgyuen/output/github-contribution-grid-snake-dark.svg" alt="GitHub Streak Snake" width="90%" />
+  <img
+    src="https://raw.githubusercontent.com/HuyNgyuen/HuyNgyuen/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="90%"
+  />
 </p>
 
 <p align="center">
-  <i> Code → Commit → Watch the snake grow 🐍 </i>
+  <i>Code → Commit → Watch the snake grow 🐍</i>
 </p>
 
 ---
